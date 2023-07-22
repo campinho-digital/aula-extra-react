@@ -1,0 +1,14 @@
+.card-content {
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 200px;
+  height: 300px;
+  margin: 30px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
